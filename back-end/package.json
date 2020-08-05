@@ -15,7 +15,7 @@
     "cron": "^1.8.2",
     "crypto": "^1.0.1",
     "express": "^4.17.1",
-    "express-fileupload": "^1.1.5",
+    "express-fileupload": "^1.1.9",
     "google-auth-library": "^5.2.2",
     "http": "0.0.0",
     "jade": "^1.11.0",
